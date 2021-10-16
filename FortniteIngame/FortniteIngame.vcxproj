@@ -155,6 +155,12 @@
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fnutil.h" />
+    <ClInclude Include="uestruct.h" />
+    <ClInclude Include="unreal.h" />
+    <ClInclude Include="objectfinder.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
