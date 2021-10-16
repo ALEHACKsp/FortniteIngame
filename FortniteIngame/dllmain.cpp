@@ -3,6 +3,10 @@
 DWORD WINAPI InitSigs(LPVOID)
 {
     // For now this will just be for the latest version of Fortnite.
+
+    // Sigs needed:
+    // Decryption (FName::ToString)
+    // Objects (ObjObjects)
 }
 
 DWORD WINAPI Main(LPVOID)
